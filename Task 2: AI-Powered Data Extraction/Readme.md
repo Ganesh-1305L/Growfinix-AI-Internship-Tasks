@@ -126,9 +126,6 @@ The project demonstrates how a Large Language Model can convert unstructured tex
 - Build a web interface for customer enquiries.
 - Improve date normalization and validation.
 
-## Author
-
-Your Name
 
 ## License
 
